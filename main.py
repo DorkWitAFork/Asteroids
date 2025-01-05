@@ -32,7 +32,9 @@ def main():
     player = Player((SCREEN_WIDTH / 2), (SCREEN_HEIGHT / 2))
     asteroid_field = AsteroidField()
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+    pygame.display.set_caption("Asteroids")
 
+    # main game loop 
     while True:
         for even in pygame.event.get():
             if even.type == pygame.QUIT:
