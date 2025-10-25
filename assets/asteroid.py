@@ -1,5 +1,5 @@
-from circleshape import *
-from constants import *
+from .circleshape import *
+from .constants import *
 import random
 
 

@@ -2,11 +2,11 @@
 # the open-source pygame library
 # throughout this file
 import pygame
-from constants import *
-from player import *
-from asteroid import *
-from asteroidfield import *
-from shot import *
+from assets.constants import *
+from assets.player import *
+from assets.asteroid import *
+from assets.asteroidfield import *
+from assets.shot import *
 import sys
 
 def main():
