@@ -2,6 +2,8 @@
 
 Welcome to my rendition of the classic Asteroids game. This project showcases my skills in creating an interactive, engaging experience, focusing on clean code, thoughtful algorithms, and user-friendly design.
 
+![image alt](https://github.com/DorkWitAFork/Asteroids/blob/main/photos/Screenshot%201.png?raw=true)
+
 ## Features
 
 - Intuitive Controls: Seamless player movement and asteroid interactions.
